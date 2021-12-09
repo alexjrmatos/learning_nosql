@@ -1,5 +1,5 @@
 # Learning NoSQL
-Learning noSQL using (this)[https://www.freecodecamp.org/news/learn-nosql-in-3-hours/] course.
+Learning noSQL using [this](https://www.freecodecamp.org/news/learn-nosql-in-3-hours/) course.
 
 Here are the topics this course will cover:
 
@@ -14,4 +14,3 @@ Here are the topics this course will cover:
 - Multi-Model Type explained
 - Project – How to use the Document API
 - Project – How to use the GraphQL API
-- Where to go next
